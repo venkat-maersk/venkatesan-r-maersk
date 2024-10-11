@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Venkat R from Customs Integrations Team
+- 👋 Hi, I’m Venkat from Customs Integration  Platform
 - 👀 I’m interested in Best Practices in Collaborative Development
-- 🌱 I’m currently learning CI/CD
-- 💞️ I’m looking to collaborate on CI/CD
 - 📫 How to reach me venkatesan.r@maersk.com or on MS Teams
 
 <!---
